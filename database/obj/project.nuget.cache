@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYRQk/9cDP2PhuwDUEMzMHOJJXQXH7gDpnCj0BRmJ35tfyrbpG6YycRb+jBT8MUf6mtRXNj3sR7cLWPzQlJDLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahaa\\bank code\\database\\database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahaa\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
